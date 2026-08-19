@@ -1,6 +1,11 @@
 <div align="center">
 
-# 🚀 Junior R. Carpenter
+<img
+  src="https://raw.githubusercontent.com/Junior156-tech/Junior156-tech/main/assets/space-header.svg"
+  width="100%"
+/>
+
+<br/>
 
 ### Software Engineer • Backend & Full-Stack Developer
 
@@ -9,7 +14,7 @@
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge)](https://port-folio-blond-alpha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_R._Carpenter-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/junior-rafael-carpenter-b506481a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_R._Carpenter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-rafael-carpenter-b506481a3/)
 
 </div>
 
