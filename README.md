@@ -1,7 +1,7 @@
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/Junior156-tech/Junior156-tech/main/assets/space-header.svg"
+  src="./assets/space-header.svg"
   width="100%"
 />
 
