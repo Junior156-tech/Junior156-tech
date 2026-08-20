@@ -1,9 +1,6 @@
 <div align="center">
 
-<img
-  src="./assets/space-header.svg"
-  width="100%"
-/>
+![Junior R. Carpenter Space Header](./assets/space-header.svg)
 
 <br/>
 
@@ -13,7 +10,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-0A66C2?style=for-the-badge)](https://port-folio-blond-alpha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Website-0A66C2?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blond-alpha.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Junior_R._Carpenter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-rafael-carpenter-b506481a3/)
 
 </div>
@@ -63,7 +60,7 @@ I enjoy understanding not only **how to write code**, but how complete software 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs" alt="Backend technologies" />
 </p>
 
 `ASP.NET Core` • `Entity Framework Core` • `Dapper` • `REST APIs` • `CQRS` • `MediatR`
@@ -71,13 +68,13 @@ I enjoy understanding not only **how to write code**, but how complete software 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css" alt="Frontend technologies" />
 </p>
 
 ### 🗄️ Databases & Caching
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis" alt="Database technologies" />
 </p>
 
 `SQL Server` • `PostgreSQL` • `Oracle` • `Redis`
@@ -85,7 +82,7 @@ I enjoy understanding not only **how to write code**, but how complete software 
 ### ☁️ Cloud, DevOps & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git" />
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,git" alt="Cloud and DevOps technologies" />
 </p>
 
 `Azure DevOps` • `CI/CD` • `Docker Compose` • `IIS`
@@ -156,17 +153,27 @@ I’m especially interested in:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Junior156-tech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Junior156-tech&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<img
+  src="https://streak-stats.demolab.com?user=Junior156-tech&theme=tokyonight&hide_border=true&border_radius=10"
+  alt="Junior R. Carpenter GitHub Streak"
+/>
 
 <br/>
+<br/>
 
-<div align="center">
+<a href="https://github.com/Junior156-tech">
+  <img
+    src="https://img.shields.io/github/followers/Junior156-tech?label=Followers&style=for-the-badge&logo=github"
+    alt="GitHub Followers"
+  />
+</a>
 
-<img src="https://streak-stats.demolab.com?user=Junior156-tech&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/Junior156-tech?tab=repositories">
+  <img
+    src="https://img.shields.io/badge/Repositories-Explore_My_Code-181717?style=for-the-badge&logo=github"
+    alt="GitHub Repositories"
+  />
+</a>
 
 </div>
 
@@ -226,7 +233,7 @@ Software engineering is a continuous journey.
 
 There will always be another technology to explore, another architecture to understand, another system to improve and another problem worth solving.
 
-```text
+```csharp
 while (alive)
 {
     learn();
@@ -245,14 +252,14 @@ while (alive)
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/junior-rafael-carpenter-b506481a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/junior-rafael-carpenter-b506481a3/)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge\&logo=vercel\&logoColor=white)](https://port-folio-blond-alpha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://port-folio-blond-alpha.vercel.app/)
 
 <br/>
 
 ### 🚀 *Exploring the universe, one line of code at a time.*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Junior156-tech\&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Junior156-tech&style=for-the-badge)
 
 </div>
