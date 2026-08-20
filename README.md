@@ -153,15 +153,7 @@ I’m especially interested in:
 
 <div align="center">
 
-<img
-  src="https://streak-stats.demolab.com?user=Junior156-tech&theme=tokyonight&hide_border=true&border_radius=10"
-  alt="Junior R. Carpenter GitHub Streak"
-/>
-
-<br/>
-<br/>
-
-<a href="https://github.com/Junior156-tech">
+<a href="https://github.com/Junior156-tech?tab=followers">
   <img
     src="https://img.shields.io/github/followers/Junior156-tech?label=Followers&style=for-the-badge&logo=github"
     alt="GitHub Followers"
@@ -174,6 +166,23 @@ I’m especially interested in:
     alt="GitHub Repositories"
   />
 </a>
+
+<a href="https://github.com/Junior156-tech">
+  <img
+    src="https://komarev.com/ghpvc/?username=Junior156-tech&label=Profile%20Views&style=for-the-badge"
+    alt="Profile Views"
+  />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🚀 Building • Learning • Improving
+
+`Backend` • `.NET` • `Architecture` • `Cloud` • `DevOps`
 
 </div>
 
